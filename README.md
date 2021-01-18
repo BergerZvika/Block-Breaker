@@ -3,6 +3,9 @@
 ## project in OOP
 block breaker in java with oop design
 
+![alt text](https://github.com/BergerZvika/Block-Breaker/i.png?raw=true)
+
+
 ## run
 
 exeute asstgame.jar
