@@ -3,7 +3,7 @@
 ## project in OOP
 block breaker in java with oop design
 
-![alt text](https://github.com/BergerZvika/Block-Breaker/i.png)
+![alt text](https://github.com/BergerZvika/Block-Breaker/blob/main/i.png)
 
 
 ## run
