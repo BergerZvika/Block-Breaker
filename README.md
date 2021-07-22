@@ -8,7 +8,7 @@ block breaker in java with oop design
 
 ## run
 
-exeute asstgame.jar
+exeute ass7game.jar
 
 or
 - unzip ass7.zip
